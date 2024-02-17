@@ -5,7 +5,10 @@ public class SolarSystem {
         solar.Moon="4";
         solar.Planets="2";
 
-
+        FeatureSun xros=new FeatureSun();
+        xros.Color="green";
+        xros.temp="2342345534657";
+        xros.Size="29849348876miles";
 
 
     }
