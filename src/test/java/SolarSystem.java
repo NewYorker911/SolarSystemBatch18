@@ -10,6 +10,10 @@ public class SolarSystem {
         xros.temp="2342345534657";
         xros.Size="29849348876miles";
 
+        Planet2 gecko=new Planet2();
+        gecko.color="grey";
+        gecko.temp="8347263874C";
+        gecko.size="123345567km";
 
     }
 }
