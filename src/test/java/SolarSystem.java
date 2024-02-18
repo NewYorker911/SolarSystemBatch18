@@ -11,6 +11,10 @@ public class SolarSystem {
         xros.Size="29849348876miles";
 
 
+        Planet1 frog=new Planet1();
+        frog.color="blue";
+        frog.temp="-1234567k";
+        frog.size="2km";
     }
 }
 
